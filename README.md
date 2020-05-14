@@ -70,7 +70,8 @@ python evaluate.py groundtruth.txt results.txt
 │   ├── ...
 │   └── n.txt
 ```
-txt文件前缀名需与视频文件夹名保持一致 
+txt文件前缀名需与视频文件夹名保持一致
+
 并打包成 predict.zip 提交
 
 
