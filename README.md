@@ -48,7 +48,7 @@ x{n},y{n} 代表四个点位，x与y之间,分隔；点位与点位以及与fram
 ### 运行 preview.py:
 
 ```
-python preview.py baseline.mpt results.txt
+python preview.py baseline.mp4 results.txt
 ```
 
 ### 运行 evaluate.py:
@@ -60,7 +60,7 @@ python evaluate.py groundtruth.txt results.txt
 ## 提交注意事项
 
 结果结构如下组织：
-``
+```
 /
 ├── predict
 │   ├── 0.txt
